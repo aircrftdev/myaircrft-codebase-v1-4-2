@@ -1,20 +1,17 @@
-# DASHKIT #
+# MYAIRCRFT FLIGHT DECK #
 
-Dashkit Theme by Good Themes.
+Myaircrft Flight Deck
 
 ### Documentation ###
 
-* Development documentation is available at `src/getting-started.html` (or `dist/getting-started.html` once you've compiled), or visit http://dashkit.goodthemes.co/getting-started.html.
-* A full list components is available at `src/components.html` (or `dist/components.html` once you've compiled), or visit http://dashkit.goodthemes.co/components.html.
+* Development documentation is available at `src/getting-started.html` (or `dist/getting-started.html` once you've compiled), or visit http://myaircrft.com/getting-started.html.
+* A full list components is available at `src/components.html` (or `dist/components.html` once you've compiled), or visit http://myaircrft.com/components.html.
 
 ### Getting Started ###
 
-The steps to compile and get started with development are covered in detail in documentation mentioned above, but the summary is:
+Read Pre-flight check list. Then refrence Lift off and Flight Path guides.
 
-- npm install -g gulp-cli
-- npm install
-- gulp
 
 ### Support ###
 
-Good Themes is happy to provide support for issues. Shoot us an email at support@goodthemes.co and we'll get you squared away.# myfirstrepo
+Good Themes is happy to provide support. Shoot us an email at support@gaircrft.com and we'll get you squared away. See you'll in the skies! - Chai Forest!
