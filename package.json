@@ -1,10 +1,10 @@
 {
   "private": true,
-  "name": "Dashkit",
+  "name": "MyAircrft FlightDeck",
   "version": "1.4.2",
   "description": "",
   "main": "gulpfile.js",
-  "author": "Good Themes",
+  "author": "aircrft.com",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

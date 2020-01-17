@@ -1,6 +1,6 @@
 # MYAIRCRFT FLIGHT DECK #
 
-Myaircrft Flight Deck
+Aircrft FlightDeck
 
 ### Documentation ###
 
@@ -14,4 +14,4 @@ Read Pre-flight check list. Then refrence Lift off and Flight Path guides.
 
 ### Support ###
 
-Good Themes is happy to provide support. Shoot us an email at support@gaircrft.com and we'll get you squared away. See you'll in the skies! - Chai Forest!
+Aircrft.com is happy to provide support. Shoot us an email at support@gaircrft.com and we'll get you squared away. See you'll in the skies! - Chai Forest!
